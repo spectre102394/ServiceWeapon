@@ -20,6 +20,13 @@ Changing forms is rather tedious because *Cataclysm* has no way to "multi-transf
 
 All forms are available at the start.
 
+* grip: powerful semi-automatic pistol
+* spin: burst-firing gun with high recoil and short effective range
+* shatter: shoots a handful of pellets akin to a shotgun
+* pierce: armor-piercing form with a very long range
+* charge: explosive-slug launcher
+  * I was unable to make it into the game's charging multishot, so it fires one explosive charge per shot
+
 Aside from the five forms from the game, I took it upon myself to add one more, called Bright: a medium-range laser weapon. It seemed appropriate for the setting.
 
 ## Loading It
